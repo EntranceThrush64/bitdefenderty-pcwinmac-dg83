@@ -1,4 +1,4 @@
-# 
+# 即时 Bitdefender Total Security 预设 Mac OS版 | 轻量 Bitdefender Total Security 预设 PC Windows版。集成 自动更新 和 零日威胁防护，跨平台性能最大化。
 
 
 
